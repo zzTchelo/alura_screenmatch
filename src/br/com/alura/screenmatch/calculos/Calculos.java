@@ -1,7 +1,4 @@
 package br.com.alura.screenmatch.calculos;
-
-import br.com.alura.screenmatch.modelos.Movies;
-import br.com.alura.screenmatch.modelos.Series;
 import br.com.alura.screenmatch.modelos.Title;
 
 public class Calculos {
